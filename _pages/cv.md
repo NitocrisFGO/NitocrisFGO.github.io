@@ -27,13 +27,21 @@ RESEARCH/PROJECT EXPERIENCE
 * ### Thesis Supervisor: [Professor Thomas C. Henderson](https://users.cs.utah.edu/~tch/)
 * Abstract: Emergency Operating Room (EOR) scheduling in hospitals traditionally follows a first-come, first-served (FCFS) approach. However, with advancements in artificial intelligence, there is potential to optimize this process. This study explores a priority-based scheduling method, U-SORT, aimed at minimizing surgery delays by prioritizing patients based on their predicted urgency. U-SORT builds upon deep learning techniques used in Emergency Department triage, such as those proposed by Ivanov, which help predict the most appropriate treatment pathway, surgery time, and surgery duration time for patients. Our work evaluates whether U-SORT can reduce the number of delayed surgeries compared to the conventional FCFS method. 
 * Result: After comparison, U-SORT can reduce the number of delayed patients by at least 10% compared to FCFS.
+* Link to project:
+* [Thesis PDF](https://drive.google.com/file/d/1FYkduRaHCux8UGQiluks-7o6u2IVikAO/view?usp=sharing)
 
 * ## Totoko Project (2023 - PRESENT)
 * Abstract: The Totoko Project, initiated in 2023 during my study of deep learning, focuses on the development of a life assistant leveraging deep learning techniques. The project was originally implemented in Python and deployed as an auto-reply system on Tencent QQ. In its first iteration, the system utilized the ChatGPT API to generate responses based on user messages sent through the QQ platform, with my personal computer acting as the server. The second generation of the project introduced additional functionalities, including emotion classification using fully connected (FC) networks and image classification based on convolutional neural networks (CNNs). Future iterations aim to expand its capabilities and creating a standalone PC/mobile application, independent of the Tencent QQ platform, and potentially developing a custom recurrent neural network (RNN)-based language model to replace the ChatGPT API.
 * Result: Totoko can simulate dynamic emotional states and generate context-sensitive responses by detecting the sentiment of user messages. It also maintains a "favorability score" for each user, adjusting its behavior based on past interactions. Additionally, the system supports image classification, allowing users to receive classifications based on images they submit.  
+* Link to project: 
+* [Totoko Discord bot Install Link](https://discord.com/oauth2/authorize?client_id=1299553119088152608)
+* [Deep Learning Model Using in Totoko project](https://github.com/NitocrisFGO/Deep_Learning_Models)
 
 * ## Wedjat Eye Project (2024 - 2025)
 * Abstract: This web project focuses on providing higher resolution for user input images, coloring black and white photos, and providing images of the selected style when the user selects a style.  We need to implement a series of deep learning models including super-resolution deep learning models. On this basis, we will realize the collection of different deep learning models and deploy them on the web server. This web project allows users to easily improve the quality and aesthetics of their images. The primary goal is to offer an intuitive, automated solution that caters to users ranging from photography enthusiasts to professional designers, historians, and social media content creators.
+* Link to project:
+* [Design Document](https://docs.google.com/document/d/19EpjXhyRpNvMh6k10ukK8rWZla8hk7dFDia3jd7pu6w/edit?usp=sharing)
+* [Project Web](https://wedjat-eye.onrender.com/)
 
 Skills
 ======
