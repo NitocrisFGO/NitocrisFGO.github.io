@@ -36,12 +36,13 @@ RESEARCH/PROJECT EXPERIENCE
 * Link to project: 
 * [Totoko Discord bot Install Link](https://discord.com/oauth2/authorize?client_id=1299553119088152608)
 * [Deep Learning Model Using in Totoko project](https://github.com/NitocrisFGO/Deep_Learning_Models)
+* [Totoko bot github page](https://github.com/NitocrisFGO/totoko_discord_bot)
 
 * ## Wedjat Eye Project (2024 - 2025)
 * Abstract: This web project focuses on providing higher resolution for user input images, coloring black and white photos, and providing images of the selected style when the user selects a style.  We need to implement a series of deep learning models including super-resolution deep learning models. On this basis, we will realize the collection of different deep learning models and deploy them on the web server. This web project allows users to easily improve the quality and aesthetics of their images. The primary goal is to offer an intuitive, automated solution that caters to users ranging from photography enthusiasts to professional designers, historians, and social media content creators.
 * Link to project:
 * [Design Document](https://docs.google.com/document/d/19EpjXhyRpNvMh6k10ukK8rWZla8hk7dFDia3jd7pu6w/edit?usp=sharing)
-* [Project Web](https://wedjat-eye.onrender.com/)
+* [Project Web](https://wedjat-eye.firebaseapp.com/)
 
 Skills
 ======
