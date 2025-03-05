@@ -23,7 +23,7 @@ Education
 
 RESEARCH/PROJECT EXPERIENCE
 ======
-* ## CS Bachelor's Thesis (2024 - PRESENT)
+* ## CS Bachelor's Thesis (2024 - 2025)
 * ### Thesis Supervisor: [Professor Thomas C. Henderson](https://users.cs.utah.edu/~tch/)
 * Abstract: Emergency Operating Room (EOR) scheduling in hospitals traditionally follows a first-come, first-served (FCFS) approach. However, with advancements in artificial intelligence, there is potential to optimize this process. This study explores a priority-based scheduling method, U-SORT, aimed at minimizing surgery delays by prioritizing patients based on their predicted urgency. U-SORT builds upon deep learning techniques used in Emergency Department triage, such as those proposed by Ivanov, which help predict the most appropriate treatment pathway, surgery time, and surgery duration time for patients. Our work evaluates whether U-SORT can reduce the number of delayed surgeries compared to the conventional FCFS method. 
 * Result: After comparison, U-SORT can reduce the number of delayed patients by at least 10% compared to FCFS.
